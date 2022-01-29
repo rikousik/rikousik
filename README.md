@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/ambanikousik/">
-  <img align="left" alt="Kousik's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kousik's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/main/assets/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ri-kousik-b5890698">
   <img align="left" alt="Kousik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
