@@ -52,7 +52,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambanikousik&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ambanikousik&show_icons=true&theme=gotham" alt="ambanikousik" />
