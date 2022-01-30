@@ -30,13 +30,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **My skill set:**
 <!--START_SECTION:waka-->
 ```text
-Dart         21 hrs 31 mins  ███████████████████████▒░   92.94 % 
-HTML         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Flutter      99%             ████████████████████████░   
+Svelte       60%             █████████████░░░░░░░░░░░░ 
+GO           70%             ███████████████████░░░░░░  
+Java         80%             ██████████████████████░░░   
 ```
 <!--END_SECTION:waka-->
 
@@ -48,7 +48,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambanikousik&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambanikousik&hide=MakeFile,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ambanikousik&show_icons=true&theme=gotham" alt="ambanikousik" />
